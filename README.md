@@ -1,2 +1,6 @@
-# Login e Cadastro utilizando PDO
-- Login e Cadastro de usuários utilizando PHP PDO puro além de SESSION e COOKIES. Foi implementada também formas para evitar SQL INJECTION por meio da filtragem dos dados de entrada do usuário.
+# Login e Cadastro utilizando PHP OO
+- Login e Cadastro de usuários utilizando PHP Orientado a Objetos puro além de SESSION e COOKIES.
+
+## Ferramentas de implementação
+- XAMPP (Apache + MariaDB + PHP 8 + Perl)
+- Visual Studio Code
